@@ -1,18 +1,22 @@
-import { CartItemContainer, ItemDetails } from './cart-item.styles';
+import { useContext } from 'react';
 
-const CartItem = ({ cartItem }) => {
-  const { name, imageUrl, price, quantity } = cartItem;
+import { ReactComponent as ShoppingIcon } from '../../assets/shopping-bag.svg';
+
+import { CartContext } from '../../contexts/cart.context';
+
+import { CartIconContainer, ItemCount } from './cart-icon.styles';
+
+const CartIcon = () => {
+  const { isCartOpen, setIsCartOpen, cartCount } = useContext(CartContext);
+
+  const toggleIsCartOpen = () => setIsCartOpen(!isCartOpen);
+
   return (
-    <CartItemContainer>
-      <img src={imageUrl} alt={`${name}`} />
-      <ItemDetails>
-        <span>{name}</span>
-        <span>
-          {quantity} x ${price}
-        </span>
-      </ItemDetails>
-    </CartItemContainer>
+    <CartIconContainer onClick={toggleIsCartOpen}>
+      <ShoppingIcon className='shopping-icon' />
+      <ItemCount>{cartCount}</ItemCount>
+    </CartIconContainer>
   );
 };
 
-export default CartItem;
+export default CartIcon;
