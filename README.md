@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://crwn-clothing-ajfm88.netlify.app/">Live Demo</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://crwn-clothing-ajfm88.netlify.app/">Live Demo</a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ## 👨🏻‍💻 About the project
@@ -126,4 +126,4 @@ $ git push origin your-feature
 
 After your pull request is merged, you can delete your branch
 
-Made by Alejandro Foucault :wave: [Get in touch!](https://github.com/ajfm88)
+Made by Alejandro Foucault :wave: [Get in touch!](https:www.ajfm88.com)
