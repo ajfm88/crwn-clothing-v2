@@ -43,6 +43,10 @@ This is an E-commerce application similar to Shopify using React, Redux, React R
 
 ## 🚀 Frontend Technologies
 
+<h1 align="center">
+	<img alt="Project Screenshots" src="./img/HomePage.gif"/>
+</h1>
+
 Technologies that I used to develop this frontend app
 
 - [ReactJS](https://reactjs.org)
