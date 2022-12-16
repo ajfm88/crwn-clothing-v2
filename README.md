@@ -85,7 +85,7 @@ $ yarn
 $ yarn dev
 ```
 
-## 🖥️ Backend Technologies
+## 💻 Backend Technologies
 
 Technologies that I used to develop this backend app
 
