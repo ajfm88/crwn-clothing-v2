@@ -89,7 +89,7 @@ $ yarn dev
 
 Technologies that I used to develop this backend app
 
-### 📚 Requirements
+### Requirements
 
 - [Node.js](https://nodejs.org/en)
 - [Yarn](https://classic.yarnpkg.com) or [npm](https://www.npmjs.com)
@@ -130,4 +130,4 @@ $ git commit -m 'feat: Your new feature'
 $ git push origin your-feature
 ```
 
-After your pull request is merged, you can delete your branch
+After your pull request is merged, you can delete your branch.
