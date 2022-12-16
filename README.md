@@ -1,4 +1,4 @@
-# 👑 Crwn-Clothing v2 👚 eCommerce App built on React
+# 👑 CrwnClothing 👚 — An eCommerce app created using TypeScript, React, Redux, Firebase and the Stripe API.
 
 <p align="center"> 
   <a href="#-frontend-technologies">Frontend Technologies</a>&nbsp;|&nbsp;
@@ -12,12 +12,14 @@
 </p>
 
 <p align="center">
-  <a href="https://crwn-clothing-ajfm88.netlify.app/">Live Demo</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://crwn-clothing-ajfm88.netlify.app">Live Demo</a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-## 👨🏻‍💻 About the project
+## 👨🏽‍💻 About the project
 
-This is an E-commerce application similar to Shopify using React, Redux, React Router, Context API, Firebase, Stripe + more. This is going to be a full stack app (MERN stack), using Firebase.
+This is an E-commerce application similar to Shopify using TypeScript, React, Redux, React Router, Context API, Firebase, Stripe + more. This is going to be a full stack app (MERN stack), using Firebase.
+
+- TypeScript
 
 - React
 
@@ -49,11 +51,12 @@ This is an E-commerce application similar to Shopify using React, Redux, React R
 
 Technologies that I used to develop this frontend app
 
+- [TypeScript](https://www.typescriptlang.org)
 - [ReactJS](https://reactjs.org)
-- [Sass](https://sass-lang.com/)
-- [Firebase](https://firebase.google.com/)
+- [Sass](https://sass-lang.com)
+- [Firebase](https://firebase.google.com)
 - [React Router](https://github.com/ReactTraining/react-router)
-- [React Redux](https://react-redux.js.org/)
+- [React Redux](https://react-redux.js.org)
 - [React Stripe](https://stripe.com/docs/stripe-js/react)
 - [VS Code](https://code.visualstudio.com) with [ESLInt](https://eslint.org/docs/user-guide/getting-started), and [Prettier RC](https://github.com/prettier/prettier)
 
@@ -61,8 +64,8 @@ Technologies that I used to develop this frontend app
 
 ### Requirements
 
-- [Node.js](https://nodejs.org/en/)
-- [Yarn](https://classic.yarnpkg.com/) or [npm](https://www.npmjs.com/)
+- [Node.js](https://nodejs.org/en)
+- [Yarn](https://classic.yarnpkg.com) or [npm](https://www.npmjs.com)
 
 **Clone the project and access the folder**
 
@@ -89,10 +92,10 @@ Technologies that I used to develop this backend app
 
 ### Requirements
 
-- [Node.js](https://nodejs.org/en/)
-- [Yarn](https://classic.yarnpkg.com/) or [npm](https://www.npmjs.com/)
-- [nodemon](https://nodemon.io/)
-- [Express](https://expressjs.com/)
+- [Node.js](https://nodejs.org/en)
+- [Yarn](https://classic.yarnpkg.com) or [npm](https://www.npmjs.com)
+- [nodemon](https://nodemon.io)
+- [Express](https://expressjs.com)
 - [body-parser](https://github.com/expressjs/body-parser)
 - [dotenv](https://github.com/motdotla/dotenv)
 
@@ -129,5 +132,3 @@ $ git push origin your-feature
 ```
 
 After your pull request is merged, you can delete your branch
-
-Made by Alejandro Foucault :wave: [Get in touch!](https:www.ajfm88.com)
