@@ -1,9 +1,8 @@
-# 👑 CrwnClothing 👚 — An eCommerce app created using TypeScript, React, Redux, Firebase and the Stripe API.
+# 👑CrwnClothing👚|E-commerce app made with React & TypeScript.
 
 <p align="center"> 
   <a href="#-frontend-technologies">Frontend Technologies</a>&nbsp;|&nbsp;
   <a href="#-Getting-started">Getting Started</a>&nbsp;|&nbsp
-  
 </p>
 
 <p align="center">
