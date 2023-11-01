@@ -1,23 +1,25 @@
-# 👑 Crwn-Clothing v2 👚 eCommerce App built on React
+# 👑CrwnClothing👚 | Full Stack eCommerce React app
 
 <p align="center"> 
-  <a href="#-frontend-technologies">Frontend Technologies</a>&nbsp;|&nbsp;
-  <a href="#-Getting-started">Getting Started</a>&nbsp;|&nbsp
-  
+  <a href="#-frontend-technologies">Frontend Technologies</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#-getting-started">Getting Started</a>
 </p>
 
 <p align="center">
- <a href="#-backend-technologies">Backend Technologies</a>&nbsp;&nbsp;|&nbsp;&nbsp;
- <a href="#-how-to-contribute">How To Contribute</a>&nbsp;|&nbsp;
+ <a href="#%EF%B8%8F-backend-technologies">Backend Technologies</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+ <a href="#-how-to-contribute">How To Contribute</a>
 </p>
 
 <p align="center">
-  <a href="https://crwn-clothing-ajfm88.netlify.app/">Live Demo</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://crwn-clothing-ajfm88.netlify.app">Live Demo</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+   <a href="#-original-course">Original Course</a>
 </p>
 
-## 👨🏻‍💻 About the project
+## 👨🏽‍💻 About the project
 
-This is an E-commerce application similar to Shopify using React, Redux, React Router, Context API, Firebase, Stripe + more. This is going to be a full stack app (MERN stack), using Firebase.
+This is a Full Stack E-commerce application similar to Shopify using TypeScript, React, Redux, React Router, Context API, Firebase, Stripe + more.
+
+- TypeScript
 
 - React
 
@@ -49,11 +51,12 @@ This is an E-commerce application similar to Shopify using React, Redux, React R
 
 Technologies that I used to develop this frontend app
 
+- [TypeScript](https://www.typescriptlang.org)
 - [ReactJS](https://reactjs.org)
-- [Sass](https://sass-lang.com/)
-- [Firebase](https://firebase.google.com/)
+- [Sass](https://sass-lang.com)
+- [Firebase](https://firebase.google.com)
 - [React Router](https://github.com/ReactTraining/react-router)
-- [React Redux](https://react-redux.js.org/)
+- [React Redux](https://react-redux.js.org)
 - [React Stripe](https://stripe.com/docs/stripe-js/react)
 - [VS Code](https://code.visualstudio.com) with [ESLInt](https://eslint.org/docs/user-guide/getting-started), and [Prettier RC](https://github.com/prettier/prettier)
 
@@ -61,8 +64,8 @@ Technologies that I used to develop this frontend app
 
 ### Requirements
 
-- [Node.js](https://nodejs.org/en/)
-- [Yarn](https://classic.yarnpkg.com/) or [npm](https://www.npmjs.com/)
+- [Node.js](https://nodejs.org/en)
+- [Yarn](https://classic.yarnpkg.com) or [npm](https://www.npmjs.com)
 
 **Clone the project and access the folder**
 
@@ -83,26 +86,26 @@ $ yarn
 $ yarn dev
 ```
 
-## 💻 Backend Technologies
+## 🖥️ Backend Technologies
 
 Technologies that I used to develop this backend app
 
 ### Requirements
 
-- [Node.js](https://nodejs.org/en/)
-- [Yarn](https://classic.yarnpkg.com/) or [npm](https://www.npmjs.com/)
-- [nodemon](https://nodemon.io/)
-- [Express](https://expressjs.com/)
+- [Node.js](https://nodejs.org/en)
+- [Yarn](https://classic.yarnpkg.com) or [npm](https://www.npmjs.com)
+- [nodemon](https://nodemon.io)
+- [Express](https://expressjs.com)
 - [body-parser](https://github.com/expressjs/body-parser)
 - [dotenv](https://github.com/motdotla/dotenv)
 
-## Set your firebase config
+## 🔐 Set your firebase config
 
 Remember to replace the `config` variable in your `firebase.utils.js `with your own config object from the firebase dashboard! Navigate to the project settings and scroll down to the config code. Copy the object in the code and replace the variable in your cloned code.
 
 ![enter image description here](https://camo.githubusercontent.com/4ed8b6a189ef7358611a7301b8b5fc41f8b5ac8a02ffda9b0f72cd725015b914/68747470733a2f2f692e6962622e636f2f3679774d6b42662f53637265656e2d53686f742d323031392d30372d30312d61742d31312d33352d30322d414d2e706e67)
 
-## Set your stripe publishable key
+## 🔑 Set your stripe publishable key
 
 Set the `publishableKey` variable in the `stripe-button.component.jsx` with your own publishable key from the stripe dashboard.
 
@@ -128,6 +131,8 @@ $ git commit -m 'feat: Your new feature'
 $ git push origin your-feature
 ```
 
-After your pull request is merged, you can delete your branch
+After your pull request is merged, you can delete your branch.
 
-Made by Alejandro Foucault :wave: [Get in touch!](https:www.ajfm88.com)
+## 👨‍🏫 Original Course
+
+- [Complete React Developer in 2023 by Andrei Neagoie & Yihua Zhang](https://www.udemy.com/course/complete-react-developer-zero-to-mastery)
